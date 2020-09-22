@@ -4,8 +4,8 @@ In this assignment, I will do Data Prepocessing (Data Cleansing).
 
 The steps that will be taken are:
 - Looking for a valid customer ID (telphone number)
-- Overcoming empty data (Missing Values)
-- Addressing the Outliers of each Variable
+- Handling empty data (Missing Values)
+- Handling the Outliers of each Variable
 - Standardize the Value of the Variable
 
 # Library
