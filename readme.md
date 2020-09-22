@@ -1,6 +1,6 @@
 # Overview
 
-As a data scientist, I help to prepare data before modeling it. In this assignment, I will do Data Prepocessing (Data Cleansing).
+In this assignment, I will do Data Prepocessing (Data Cleansing).
 
 The steps that will be taken are:
 - Looking for a valid customer ID (telphone number)
